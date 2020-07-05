@@ -1,13 +1,18 @@
 package com.example.demo;
 
 import org.junit.Test;
+import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class SpringRadisApplicationTests {
+/*@SpringBootTest
+@RunWith(Runner)*/
+public class SpringRadisApplicationTests {
 
-	/*
-	 * @Test void contextLoads() { }
-	 */
+	
+	  @Test 
+	  public void test1() {
+		  
+	  }
+	 
 
 }
